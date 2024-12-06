@@ -6,7 +6,7 @@
 
 ##
 
-<p align="left">Java Developer | Focused on backend development with experience in Spring Boot, PostgreSQL, MongoDB, and RESTful APIs. Constantly learning and building personal projects.</p>
+<p align="left">Java Developer | Focused on backend development with Java, Spring Boot, Spring Security, Swagger, Docker, JUnit5, Mockito, Hibernate PostgreSQL, MongoDB, RESTful APIs and more. Constantly learning and building personal projects.</p>
 
 ##
 
