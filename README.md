@@ -1,4 +1,4 @@
-<h3 align="left">👋 Oi! Meu nome é Iago, sou estudante de Sistemas de Informação e desenvolvedor Java.</h3>
+<h3 align="left">👋 Oi! Meu nome é Iago, sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Java.</h3>
 
 ###
 
